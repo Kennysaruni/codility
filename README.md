@@ -1,5 +1,5 @@
 ##Challenge 1
-Add Length Toy Problem Solution
+Check number problem
 
 Problem
 Write a function that accepts two numbers a and b and returns whether a is smaller than, bigger than, or equal to b, as a string.
